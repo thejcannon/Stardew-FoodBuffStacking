@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Stardew Buff Stack",
+  "Author": "thejcannon",
+  "Version": "0.1.0",
+  "Description": "Allows for buffs to stack",
+  "UniqueID": "thejcannon.stardewbuffstack",
+  "EntryDll": "stardewbuffstack.dll",
+  "MinimumApiVersion": "2.2.0",
+  "UpdateKeys": []
+}
