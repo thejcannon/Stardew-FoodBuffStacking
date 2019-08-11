@@ -59,7 +59,7 @@ namespace StardewBuffStack
             {
                 int oldValue = getBuffValue(oldBuff);
                 int newValue = getBuffValue(oldBuff);
-                return oldValue < newValue || (oldValue == newValue && (oldBuff.millisecondsDuration < newBuff.millisecondsDuration));
+                return oldValue < newValue || (oldValue == newValue && oldBuff.millisecondsDuration < newBuff.millisecondsDuration);
             }
 
 
