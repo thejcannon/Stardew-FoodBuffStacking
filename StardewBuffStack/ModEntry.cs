@@ -57,8 +57,11 @@ namespace StardewBuffStack
             /// <remarks>
             public bool shouldReplaceBuff(Buff newBuff, Buff oldBuff)
             {
-                return getBuffValue(oldBuff) < getBuffValue(newBuff) || (oldBuff.millisecondsDuration < newBuff.millisecondsDuration);
+                int oldValue = getBuffValue(oldBuff);
+                int newValue = getBuffValue(oldBuff);
+                return oldValue < newValue || (oldValue == newValue && (oldBuff.millisecondsDuration < newBuff.millisecondsDuration));
             }
+
 
             public Dictionary<int, Buff> splitFoodIntoBuffMap()
             {
