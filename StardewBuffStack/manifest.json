@@ -6,5 +6,5 @@
   "UniqueID": "thejcannon.stardewbuffstack",
   "EntryDll": "stardewbuffstack.dll",
   "MinimumApiVersion": "2.2.0",
-  "UpdateKeys": []
+  "UpdateKeys": ["Nexus:4321", "GitHub:thejcannon/Stardew-BuffStacking"]
 }
