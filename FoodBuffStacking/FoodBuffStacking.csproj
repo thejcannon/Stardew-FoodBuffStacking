@@ -7,8 +7,8 @@
     <ProjectGuid>{1AD3BE98-8EC2-43FF-AE28-684DA4F86C2A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>StardewBuffStack</RootNamespace>
-    <AssemblyName>StardewBuffStack</AssemblyName>
+    <RootNamespace>FoodBuffStacking</RootNamespace>
+    <AssemblyName>FoodBuffStacking</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
