@@ -1,4 +1,4 @@
-# Stardew-BuffStacking (0.1.1)
+# Stardew-FoodBuffStacking (0.2.0)
 Stardew Valley mod which stacks buffs from different foods (instead of wiping out previous buffs)
 
 ## Shortcomings:
@@ -17,5 +17,7 @@ Stardew Valley mod which stacks buffs from different foods (instead of wiping ou
 - Tested with Stardew Valley 1.3.36 on Windows.
 
 ## Versions
+### 0.2
+- Renamed to "Stardew-FoodBuffStacking" to match NexusMods name
 ### 0.1.1
 - Improving buff replacement logic to include time (longer time wins)
